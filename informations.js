@@ -1,5 +1,4 @@
 
-
 const me = {
     name:"Axel",
     campus:"Biarritz",
